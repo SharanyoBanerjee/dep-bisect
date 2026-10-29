@@ -1,0 +1,7 @@
+dist/
+node_modules/
+.dep-bisect/
+*.log
+.DS_Store
+*.tsbuildinfo
+Documents/
