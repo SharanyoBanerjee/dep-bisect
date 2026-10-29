@@ -35,7 +35,7 @@
     "zod": "^3.23.0"
   },
   "devDependencies": {
-    "@types/node": "^22.0.0",
+    "@types/node": "^26.6.5",
     "@types/semver": "^7.5.0",
     "@types/tar": "^6.1.0",
     "@typescript-eslint/eslint-plugin": "^8.72.1",
